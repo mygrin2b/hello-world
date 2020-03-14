@@ -1,2 +1,3 @@
 # hello-world
-actually i'd like to say hello coronavirus
+其实我想说你好冠状病毒
+其实我想说快走开
